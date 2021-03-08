@@ -13,17 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: L'Ami du peuple
-email: jcoenep@hotmail.com
+title: Ben Goff History
+email: bengoffhistory@gmail.com
 description: >
   Journal politique impartial, <br>
   Par Mr. P. Marat auteur de l'Offrande a la patrie, <br>
   du Moniteur et du Plan de Constitution, etc.
 tagline: vitam impendere vero
-location: Versailles
+location: Tallahassee
 date: true
-baseurl: "/marat" # the subpath of your site, e.g. /blog
-url: "http://johncoene.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/bengoffhistory" # the subpath of your site, e.g. /blog
+url: "https://bengoff1.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 author: Jean-Paul Marat
 google_analytics: UA-101394056-1
 
