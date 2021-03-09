@@ -14,37 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ben Goff History
-email: bengoffhistory@gmail.com
+email: bengoff5017@gmail.com
 description: >
-  Journal politique impartial, <br>
-  Par Mr. P. Marat auteur de l'Offrande a la patrie, <br>
-  du Moniteur et du Plan de Constitution, etc.
+  My personal website, <br>
+  with lots of fun history stuff, <br>
+  especailly on French military hospitals!
 tagline: vitam impendere vero
 location: Tallahassee
 date: true
 baseurl: "/bengoffhistory" # the subpath of your site, e.g. /blog
 url: "https://bengoff1.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-author: Jean-Paul Marat
+author: “To conserve more and spend less, such is the philosophical and economic problem of hospitals. The legislator cannot weigh the life or liberty of a citizen against some monetary value, but at the same time he must not drain public funds, nor can he spare no expense to ease human suffering.”- Claude Boyer, Eighteenth-Century French Military Surgeon 
 google_analytics: UA-101394056-1
 
-# SEO
-twitter:
-  username: jdatap
 
-logo: /assets/logo.png
-
-lang: fr
-
-facebook:
- app_id: 101766790448070
-
-social:
-  name: John Coene
-  links:
-    - https://twitter.com/jdatap
-    - https://www.linkedin.com/in/johncoene
-    - https://plus.google.com/109009224717674019651
-    - https://github.com/JohnCoene
 
 # Build settings
 exclude: README.md
