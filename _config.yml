@@ -27,8 +27,6 @@ url: "https://bengoff1.github.io/" # the base hostname & protocol for your site,
 author: “To conserve more and spend less, such is the philosophical and economic problem of hospitals. The legislator cannot weigh the life or liberty of a citizen against some monetary value, but at the same time he must not drain public funds, nor can he spare no expense to ease human suffering.”- Claude Boyer, Eighteenth-Century French Military Surgeon 
 google_analytics: UA-101394056-1
 
-
-
 # Build settings
 exclude: README.md
 markdown: kramdown
