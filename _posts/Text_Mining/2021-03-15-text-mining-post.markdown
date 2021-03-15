@@ -12,3 +12,13 @@ categories: jekyll update
    ![Journal de médecine militaire](https://raw.githubusercontent.com/Bengoff1/Images/main/Journal_de_m%C3%A9decine_militaire.jpg)	    ![Recueil d'observations de médecine des hôpitaux militaires](https://raw.githubusercontent.com/Bengoff1/Images/main/Hauterierck_1766_Recueil.jpg)
 
 # Results 
+**Reference** On my first attempt, the topic modeling produced mostly lists of stop words. Burried with these stop words are some of the most common illnesses and conditions that military medical practitioners in the 18th century were concerned with, such as fevers, inflamation, small pox aka "petite vérole." See Image 1. After I downloaded a list of stop words, the modeling worked much better. Here it yeilded words that you might expect. Hospital, fever, observations, wounds, blood and more. See Image 2. 
+
+**Primary** This section produced better results. We can see some of the general geographic features the military physicians were interested in, such as rivers, montains, swamps, hills and more. There are also references to sunlight, vapors, seasons, cities and others. These findings are not surprising. Doctors were trained to look at factors such as these we describing the salubrity of a given area. See Image 3. 
+
+# Conclusions 
+Results here were unsurprising. The reference texts were much more general, while the topographic texts turned up topics related to geography, climate, and demographics. Of final note, I was unable to decipher any specific topics from the topic modeling. The topics generated felt like an undifferentiated mass of words, much closer to Voyants "bag of words" approach than what I had thought would be stand alone topics. 
+
+![Attempt #1](https://raw.githubusercontent.com/Bengoff1/Images/main/Screenshot%20(24).png "Image 1")
+![Attempt #2](https://raw.githubusercontent.com/Bengoff1/Images/main/Screenshot%20(25).png "Image 2")
+![Attempt #3](https://raw.githubusercontent.com/Bengoff1/Images/main/Screenshot%20(26).png "Image 3")
