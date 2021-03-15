@@ -9,5 +9,6 @@ categories: jekyll update
 
 **Primary:** For my primary texts, from these journals I selected individual artcles on medical topography. Medical topography was an in-vogue topic for early modern medical practitioners. At the time, Hippocrates' theories about the environment's impact on human health dictated that doctors and surgeons intimately understand the local climates in which they worked. They also needed to know how things like water quality, elevation change, seasonal shifts, soil quality and local foods could make people sick or keep them healthy. Producing articles on medical topography was a great way for the military to keep track of the local climates in which particualr hopsitals were located.    
 
-![Journal_de_médecine_militaire](C:\Users\Ben\Documents\GitHub\bengoffhistory\_posts\Text_Mining\Journal_de_médecine_militaire.jpg)
-![Recueil d'observations de médecine des hôpitaux militaires](‪C:\Users\Ben\Documents\GitHub\bengoffhistory\_posts\Text_Mining\Hauterierck_1766_Recueil.jpg)
+   ![Journal de médecine militaire](https://raw.githubusercontent.com/Bengoff1/Images/main/Journal_de_m%C3%A9decine_militaire.jpg)	    ![Recueil d'observations de médecine des hôpitaux militaires](https://raw.githubusercontent.com/Bengoff1/Images/main/Hauterierck_1766_Recueil.jpg)
+
+# Results 
