@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Wikidata"
+date:   2021-03-16 00:00:01 -0500
+categories: jekyll update
+---
+# Step One: 
+# Learning Wikidata 
+
+First, I looked for the Wikipedia page for a prominent French military surgeon who served primarily during the Napoleonic Wars: Dominique Jean Larrey. From there, I explored his Wikidata page and familirized myself with Items, Labels and statements. 
+
+# Step Two: 
+# Downloading Data 
+
+I decided that a list of coordinates would be helpful for my research, especailly if I wanted to create a map of france. I first tried to look for instances of military hospitals in France. **See image one.** This search was successful, but there were only ten entries and they were not filtered by date. Some entries were present-day hospitals while others were former hospitals that have now become landmarks. 
+
+Becuase this list was incomplete and not exactly what I was looking for, I thought that a list of the coordinates of all cities in France would be useful. With that in hand I could use a simple search function to find the cities that correspond to the hospital records I have. I did a search using the term cities, but this only turned up 125 results, which is far too low a number. **See image two.** I then realized that for metropolitan France, using the term commune would turn out better results. The search worked perfectly and now I have a list of 40421 communes in France with thier coordinates. **See image three**
+
+# Step Three: 
+# Contributing to Wikidata
+
+My contribution to the world of linked data is rather small. I decided to create a new entry. I the person Jacques DeHorne with a description of "18th century French military physician" to the wikidata universe and made three statements about him. First, that he was a military physician, second that he was a member of the *Societe royale de medecine*, and third that his sex was male.
+
+![Screenshot One](https://raw.githubusercontent.com/Bengoff1/Images/main/Screenshot%20(27).png "image one")
+![Screenshot two](https://raw.githubusercontent.com/Bengoff1/Images/main/Screenshot%20(28).png "image two")
+![Screenshot three](https://raw.githubusercontent.com/Bengoff1/Images/main/Screenshot%20(29).png "image three")
