@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ site.title }}</title>
+    {% include header.html %}
+  </head>
+  <body>
+
+    {% include nav.html %}
+
+    <div class="container">
+      <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line">
+      <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line flip">
+      <h1 class="brand title center" id = "title">{{ site.title | upcase }}</h1>
+      <div class="center">
+        <h5>{{ page.description }}</h5>
+        {% if site.date == true %}<h5>{{ site.time | date_to_long_string | upcase }}</h5>{% endif %}
+        <br>
+      </div>
+
+      {{ content }}
+
+    </div>
+
+    {% include foot.html %}
+
+  </body>
+</html>
