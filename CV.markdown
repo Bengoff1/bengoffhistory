@@ -97,7 +97,6 @@ Centre de Linguistique Appliquée, Université de Franche-Comté, Besançon, Fra
 **2014-2015**-Ancient History, Butler County Community College
 \
 **2014**-Early United States History, Butler County Community College
-\
 ##### Discussion Leader and Grading Assistant
 
 **2018**-The Modern World since 1815, Florida State University 
