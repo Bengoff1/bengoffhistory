@@ -4,8 +4,7 @@ title:  "Website Update"
 date:   2021-03-31 00:00:00 -0500
 categories: jekyll update
 ---
-
-# Plan for the Rest of the Semester 
+# Plan for the Rest of the Semester
 The last two weeks have been difficult from a conceptual point of view. I have been trying to determine how this website and computational methods in general can best serve my career, whether inside or outside academia. If I stay inside academia, I want to make sure that computational methods do real work, and are not just window dressings layered on top of a close reading of primary sources. Ideally, computational methods and close reading should work together, as we have observed in Underwood and other readings. The work I have done to this point in the class, especailly with the hospital statistics from 1803, is suitable for producing visaulizations. However, I worry that I do not have enough data from other periods and that further work with the material will be oif limited value for my dissertation. Because my dissetation runs from 1630 to 1815, I would feel more comfortable if I had statistics from a variety of periods and not just the Napoleonic Wars. I do not want to include visualizations simply for visualization's sake. I plan on going on a second research trip to France where I hope to find more documents like the statistics from 1803 but I cannot be sure that such documents exist. In other words, I think another research trip France is necessary to know if the route I have been following this semester is viable in the long term. 
 
 To deal with this issue, I will spend the rest of the semester with an eye towards the non-academic job market by improving my skills in several areas and using the website as a way to demonstrate those skills. I hope to do five things to my website, There are only three week left in the semester, So I should aim to complete about 1.5 things to the website per week. 
