@@ -19,7 +19,6 @@ description: >
   My personal website, <br>
   with lots of fun history stuff, <br>
   especially on French military hospitals!
-tagline: vitam impendere vero
 location: Tallahassee
 date: true
 baseurl: "/bengoffhistory" # the subpath of your site, e.g. /blog
