@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "End of Semester Thoughts: Envisioning My Data Potential"
-date:   2021-04-23 00:00:01 -0500
+date:   2021-04-23 00:00:02 -0500
 categories: jekyll update
 ---
 Reflecting on the semester, I believe I have progressed significantly. I now know where to start when employing computational methods. Before, I would have been totally lost. I have also made good progress with the computational skills themselves. I feel comfortable with markdown. I feel I can use regular expressions (although with much room for improvement). I can use tableau effectively to produce visualizations, and I have a foundation in R from which I might one day advance my skills further. Finally, I have created a website I am proud of, and will use as my own personal website going forward. 
